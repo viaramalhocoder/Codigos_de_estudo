@@ -1,0 +1,1 @@
+Este repositório tem por objetivo melhorar o aprendizado adquirido em meu curso de graduação e nos cursos que venho assistindo na plataforma DIO.me , venho informar que tem sido executado projetos de acordo com o que foi acompanhado nos vídeos. 
